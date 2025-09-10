@@ -27,6 +27,7 @@ body{
 }
 .plan-features{
     font-size: 20px;
+    list-style-type: none;
 }
 .plan-button{
     background-color: orange;
